@@ -1,0 +1,7 @@
+python-telegram-bot[asyncio]~=20.0
+python-dotenv
+PyYAML
+openai
+chardet
+pytest
+pytest-asyncio

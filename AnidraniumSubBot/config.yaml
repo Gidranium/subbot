@@ -1,0 +1,8 @@
+telegram_token: "7793082944:AAEzohyOGcV40sK6oHvguIUYBxB4ibM_5-E"
+openai_api_key: "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"
+log_level: "INFO"
+max_file_size: 20971520
+templates_dir: "templates"
+cache_ttl: 3600
+rate_limit_requests: 5
+rate_limit_window: 60
